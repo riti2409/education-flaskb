@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingmaster",
+    "tw_url":"https://twitter.com/codingmaster",
+    "gh_url": "https://github.com/codingmaster",
+    "blog_name": "Coding Masters",
+    "tag_line": "Say hello to coding",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image":"https://ak.picdn.net/shutterstock/videos/11373440/thumb/1.jpg",
+    "admin_user":"riti",
+    "admin_password": "12345"
+  }
+
+}
